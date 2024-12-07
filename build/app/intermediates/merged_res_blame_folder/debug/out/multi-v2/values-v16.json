@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mcq.mcq.app-mergeDebugResources-47:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/sanjay/.gradle/caches/transforms-3/a623fb7681c4912c6336e19413424096/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

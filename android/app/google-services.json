@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "43267399587",
+    "firebase_url": "https://mcq-dev-583b1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mcq-dev-583b1",
+    "storage_bucket": "mcq-dev-583b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43267399587:android:3f6b7eab8eaf5047ae0416",
+        "android_client_info": {
+          "package_name": "com.mcq.mcq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBqJ11TTT5ghtNXBydT_5EPnZi-td_kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43267399587:android:05dba2096e387517ae0416",
+        "android_client_info": {
+          "package_name": "com.mcq_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBqJ11TTT5ghtNXBydT_5EPnZi-td_kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
